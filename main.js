@@ -5,6 +5,7 @@ $( document ).ready(function(){
    
 });
 
+
 $( document ).ready(function(){
 	$( '#iwao' ).click(function() {
 	    alert( "Hey you clicked on me again" );
